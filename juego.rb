@@ -1,6 +1,5 @@
-require 'rubygems'
+﻿require 'rubygems'
 require 'gosu'
-#require 'Conway.rb'
 
 #Clase para graficar el algoritmo, basada en la gem gosu
 class MyWindow < Gosu::Window
